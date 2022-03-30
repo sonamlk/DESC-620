@@ -7,6 +7,8 @@ date: "`r Sys.Date()`"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+##learning git and r
+make sure
 
 ## R Markdown
 
